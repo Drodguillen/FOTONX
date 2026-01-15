@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use FOTONX in academic work, please cite it."
+title: "FOTONX"
+type: software
+authors:
+  - family-names: "Rodríguez-Guillén"
+    given-names: "Daniel"
+version: "0.1.0"
+date-released: "2026-01-15"
+license: "FOTONX Academic Non-Commercial License (FANCL) v1.1"
+repository-code: "https://github.com/Drodguillen/FOTONX"

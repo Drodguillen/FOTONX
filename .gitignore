@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# VS / IDE
+.vs/
+.vscode/
+
+# build / packaging
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large media (optional)
+*.mp4
+
+examples/example_MMI.py
+examples/mmi_fvbpm.mp4
+examples/example_fdfd2d_scalar.py

@@ -1,0 +1,8 @@
+[project]
+name = "fotonx"
+version = "0.0.1"
+dependencies = ["numpy", "scipy", "matplotlib", "gdstk"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
