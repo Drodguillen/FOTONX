@@ -10,49 +10,10 @@ FOTONX: modular photonics simulation toolbox in Python
 
 \*\*FOTONX\*\* is a modular, research-oriented photonics simulation toolbox focused on \*\*Maxwell-based numerical solvers\*\* and reproducible workflows for integrated photonics and microstructured fibers.
 
-
-
 This repository currently includes the first stable module:
 
-
-
 \- \*\*vmode\*\*: \*\*full-vectorial FDFD eigenmode solver\*\* (2D cross-sections) with \*\*PML\*\*, \*\*GDS import\*\*, \*\*isotropic + anisotropic permittivity tensors\*\*, and optional \*\*(Ez, Hz) reconstruction\*\*.
-
-
-
-More solvers (BPM / CMT / EME / FDTD) are planned as separate modules inside the same toolbox.
-
-
-
 ---
-
-
-
-\## Why this exists
-
-
-
-Commercial tools are powerful but often inaccessible for students and small research groups.  
-
-FOTONX aims to provide an \*\*academic open codebase\*\* with:
-
-
-
-\- Clear physics + numerics structure
-
-\- Reproducible examples
-
-\- A modular API designed to scale to multiple solvers
-
-
-
----
-
-
-
-\## Current features (vmode)
-
-
 
 \### Geometry / meshing
 
@@ -103,36 +64,7 @@ FOTONX aims to provide an \*\*academic open codebase\*\* with:
 \- Paper-style contour plots for anisotropic cases
 
 
-
----
-
-
-
-\## Repository status
-
-
-
-\- vmode: working + validated on multiple test cases  
-
-
-
----
-
-
-
-\## Installation
-
-
-
-\### Option A — editable install (recommended for development)
-
-```bash
-
-pip install -e .
-
-
-
-\### Option B — standard install
+\### Installation
 
 pip install .
 
@@ -156,7 +88,7 @@ If you use FOTONX in academic work, please cite:
 
 FOTONX (vmode module)
 
-Daniel Rodríguez Guillén, FOTONX: Photonics Simulation Toolbox (FDFD vmode module), GitHub repository, 2026. Check CITATION.cff
+Daniel Rodríguez Guillén, FOTONX: Photonics Simulation Toolbox (FDFD vmode module), GitHub repository, 2026.
 
 ## License
 
@@ -174,13 +106,7 @@ PhD student — Photonics / Numerical Methods / Scientific Computing
 
 
 
-\## Contact
-
-
-
-For collaboration or commercial licensing inquiries:
-
-Open a GitHub issue,
+## Contact
 
 Contact via LinkedIn, or by email.
 
