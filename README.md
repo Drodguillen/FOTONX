@@ -11,7 +11,7 @@ FOTONX: modular photonics simulation toolbox in Python
 
 This repository currently includes the first stable module:
 
-\*\*vmode\*\*: \*\*full-vectorial FDFD eigenmode solver\*\* (2D cross-sections) with \*\*PML\*\*, \*\*GDS import\*\*, \*\*isotropic + anisotropic permittivity tensors\*\*, and optional \*\*(Ez, Hz) reconstruction\*\*.
+\\vmode\\: \\full-vectorial FDFD eigenmode solver\\ (2D cross-sections) with \\PML\\, \\GDS import\\, \\isotropic + anisotropic permittivity tensors\\, and optional \\(Ez, Hz) reconstruction\\.
 ---
 
 ### Geometry / meshing
